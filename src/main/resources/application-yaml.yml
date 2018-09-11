@@ -1,0 +1,9 @@
+awesomeList:
+  - item1
+  - item2
+  - item3
+
+awesomeMap:
+  key1: someValue1
+  key2: someValue2
+  awesome: awesomeValue
